@@ -1,7 +1,6 @@
 #ifndef SK6812_H_
 #define SK6812_H_
 
-#include <util/delay.h>
 #include <stdint.h>
 #include <Arduino.h>
 
